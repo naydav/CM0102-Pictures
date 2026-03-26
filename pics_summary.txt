@@ -101,7 +101,7 @@ Images use [b]40% opacity[/b] for better text readability.
 
 [size=120][b]Compatibility[/b][/size]
 
-[color=green][b]✓[/b][/color] Works with all saves  
+[color=green][b]✓[/b][/color] Works with all saves2
 [color=green][b]✓[/b][/color] Compatible with other patches  
 [color=green][b]✓[/b][/color] Visual only — no gameplay or database changes
 
