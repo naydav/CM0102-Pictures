@@ -111,14 +111,14 @@ The pack should work without these, but it has not been tested without them.
 
 The **Pictures** folder for this pack is published on GitHub at the release tag **`pictures-release`**.
 
-1. **Download the source:** open [CM0102 Pictures — GitHub release](https://github.com/naydav/CM0102-Pictures/releases/tag/pictures-release), scroll to **Assets**, and download **Source code (zip)**.
-2. **Extract** the zip. You get a repository folder that contains **`Pictures/`** at the top level — that is the folder you will copy into the game (ignore other files if you only need backgrounds).
-3. *(Optional)* Back up your current **Pictures/** folder in the game directory so you can restore it later.
+1. **Back up** your current **`Pictures/`** folder in the CM0102 game directory (copy it somewhere safe so you can restore it later).
+2. **Download the source:** open [CM0102 Pictures — GitHub release](https://github.com/naydav/CM0102-Pictures/releases/tag/pictures-release), scroll to **Assets**, and download **Source code (zip)**.
+3. **Extract** the zip. You get a repository folder that contains **`Pictures/`** at the top level — that is the folder you will copy into the game (ignore other files if you only need backgrounds).
 4. If you are setting up **CM0102** from scratch: install the game, apply the official **3.9.68** patch, and copy the **December 2025 Data Update** into your CM0102 **Data/** directory.
 5. Run **Nick's CM0102Patcher** and enable **1280x800 resolution** — [Full patcher guide](https://champman0102.net/viewtopic.php?t=1943).
 6. **Copy the `Pictures/` folder** from the extracted pack into your **CM0102 game root** (next to the game executable), replacing the existing **Pictures** folder if present.
 
-*Already have CM0102 with Nick's patcher (1280x800)?* Do steps **1–2**, then **6** only.
+*Already have CM0102 with Nick's patcher (1280x800)?* Do steps **1**, **2–3**, then **6** (skip **4–5**).
 
 - ✓ No restart required — images appear immediately
 - ✓ Works with all existing saves
