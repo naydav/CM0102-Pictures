@@ -101,14 +101,14 @@ Images use [b]40% opacity[/b] for better text readability.
 
 [size=120][b]Compatibility[/b][/size]
 
-[color=green][b]✓[/b][/color] Works with all saves2
-[color=green][b]✓[/b][/color] Compatible with other patches  
+[color=green][b]✓[/b][/color] Works with all saves
+[color=green][b]✓[/b][/color] Compatible with other patches
 [color=green][b]✓[/b][/color] Visual only — no gameplay or database changes
 
 [size=120][b]Requirements[/b][/size]
 
 [list]
-[*] [b]Nick's CM0102Patcher[/b] with [color=red][b]1280x800 resolution[/b][/color] enabled — this pack is designed for that resolution only  
+[*] [b]Nick's CM0102Patcher[/b] with [color=red][b]1280x800 resolution[/b][/color] enabled — this pack is designed for that resolution only
 [url=https://champman0102.net/viewtopic.php?t=1943]→ Nick's CM0102Patcher download & instructions[/url]
 [/list]
 
@@ -130,13 +130,13 @@ The pack should work without these, but it has not been tested without them.
 [*] Install [b]CM0102[/b] from scratch
 [*] Apply the official [b]3.9.68[/b] patch
 [*] Copy the [b]December 2025 Data Update[/b] into your CM0102 [color=blue][b]Data/[/b][/color] directory
-[*] Run [b]Nick's CM0102Patcher[/b] and enable [color=red][b]1280x800 resolution[/b][/color]  
+[*] Run [b]Nick's CM0102Patcher[/b] and enable [color=red][b]1280x800 resolution[/b][/color]
 [url=https://champman0102.net/viewtopic.php?t=1943]Full patcher guide[/url]
 [*] [color=green][b]Copy the Pictures/ folder[/b][/color] from this pack into your CM0102 game root directory
 [/list]
 
-[color=green][b]✓[/b][/color] No restart required — images appear immediately  
-[color=green][b]✓[/b][/color] Works with all existing saves  
+[color=green][b]✓[/b][/color] No restart required — images appear immediately
+[color=green][b]✓[/b][/color] Works with all existing saves
 [color=green][b]✓[/b][/color] To revert: restore your original [b]Pictures[/b] folder (e.g. copy it back from a backup)
 
 [color=red][b]Note:[/b][/color] The first load may take a bit longer than without pictures, as the game has to load all images.
