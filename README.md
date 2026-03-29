@@ -91,7 +91,8 @@ Images use **40% opacity** for better text readability.
 
 ## Compatibility
 
-- ✓ Works with all saves
+- ✓ No restart required — images appear immediately
+- ✓ Works with all existing saves
 - ✓ Compatible with other patches
 - ✓ Visual only — no gameplay or database changes
 
@@ -110,24 +111,26 @@ Images use **40% opacity** for better text readability.
 
 ## Installation
 
-The **Pictures** folder for this pack is published on GitHub at the release tag **`pictures-release`**.
-
-1. **Back up** your current **`Pictures/`** folder in the CM0102 game directory (copy it somewhere safe so you can restore it later).
+1. **Back up** your current `Pictures/` folder in the CM0102 game directory (copy it somewhere safe so you can restore it later).
 2. **Download the source:** open [CM0102 Pictures — GitHub release](https://github.com/naydav/CM0102-Pictures/releases/tag/pictures-release), scroll to **Assets**, and download **Source code (zip)**.
-3. **Extract** the zip. You get a repository folder that contains **`Pictures/`** at the top level — that is the folder you will copy into the game (ignore other files if you only need backgrounds).
-4. If you are setting up **CM0102** from scratch: install the game, apply the official **3.9.68** patch, and copy the **December 2025 Data Update** into your CM0102 **Data/** directory.
-5. Run **Nick's CM0102Patcher** and enable **1280x800 resolution** — [Full patcher guide](https://champman0102.net/viewtopic.php?t=1943).
-6. **Copy the `Pictures/` folder** from the extracted pack into your **CM0102 game root** (next to the game executable), replacing the existing **Pictures** folder if present.
+3. **Extract** the zip, then copy everything from **`Pictures/`** in the unpacked archive into your CM0102 **`Pictures/`** folder at the **game root** (next to the executable), replacing the existing folder if present.
+4. **Nick's CM0102Patcher:** apply the options from **Requirements** (above) — [Full patcher guide](https://champman0102.net/viewtopic.php?t=1943).
 
-*Already have CM0102 with Nick's patcher (1280x800)?* Do steps **1**, **2–3**, then **6** (skip **4–5**).
+### To revert
 
-- ✓ No restart required — images appear immediately
-- ✓ Works with all existing saves
-- ✓ To revert: restore your original **Pictures** folder (e.g. copy it back from a backup)
+Remove or clear the current **`Pictures/`** folder in the game directory, then restore the backup from step 1 into **`Pictures/`**.
 
 **Note:** The first load may take a bit longer than without pictures, as the game has to load all images.
 
-### Feedback welcome
+## Future improvements
+
+- **Stadiums:** adding stadium backgrounds.
+- **Player images:** gradually updating to **2025** photos.
+- **Top clubs:** more variations for top teams.
+
+## Feedback welcome
+
+Please share any feedback, ideas, bugs, or suggestions for improvement.
 
 - **Club requests:** specific clubs you'd like added
 - **Image quality:** anything that looks wrong or low quality
@@ -135,8 +138,4 @@ The **Pictures** folder for this pack is published on GitHub at the release tag 
 - **Suggestions:** ideas for improvements
 - **Bug reports:** any errors or issues
 
-Feel free to report issues or suggest improvements.
-
-## Future improvements
-
-Work on stadiums is in progress.
+[champman0102.net](https://champman0102.net/)
