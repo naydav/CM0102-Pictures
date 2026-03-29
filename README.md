@@ -95,14 +95,17 @@ Images use **40% opacity** for better text readability.
 - ✓ Compatible with other patches
 - ✓ Visual only — no gameplay or database changes
 
-## Requirements
+## Requirements — Nick's CM0102Patcher
 
-- **Nick's CM0102Patcher** with **1280x800 resolution** enabled — this pack is designed for that resolution only
-- [→ Nick's CM0102Patcher download & instructions](https://champman0102.net/viewtopic.php?t=1943)
+[Nick's CM0102Patcher — download & instructions](https://champman0102.net/viewtopic.php?t=1943)
 
-**Desirable (not strictly required):** The pack should work without these, but it has not been tested without them.
+**Required:**
 
-- In Nick's patcher: set year to **2025** → enable **"Apply Year Specific Misc Patches"**
+- Enable **1280x800 resolution**; this pack is designed for that resolution only.
+
+**Desirable (not strictly required):** The pack can fall back to working without these patcher options, but that setup has not been tested.
+
+- Set year to **2025** → enable **"Apply Year Specific Misc Patches"**
 - Apply **Update names + transfer windows**
 
 ## Installation
