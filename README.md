@@ -100,9 +100,7 @@ Images use **40% opacity** for better text readability.
 - **Nick's CM0102Patcher** with **1280x800 resolution** enabled — this pack is designed for that resolution only
 - [→ Nick's CM0102Patcher download & instructions](https://champman0102.net/viewtopic.php?t=1943)
 
-## Recommended patcher settings
-
-The pack should work without these, but it has not been tested without them.
+**Desirable (not strictly required):** The pack should work without these, but it has not been tested without them.
 
 - In Nick's patcher: set year to **2025** → enable **"Apply Year Specific Misc Patches"**
 - Apply **Update names + transfer windows**
