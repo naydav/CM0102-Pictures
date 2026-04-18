@@ -1,6 +1,6 @@
 # Naydav's CM0102 1280x800 Background Image Pack
 
-A set of background images for CM0102 at native resolution (RGN 1280x800): clubs, nations, national competitions, and club competitions.
+A set of background images for CM0102 at native resolution (RGN 1280x800): clubs, nations, competitions, and stadiums.
 
 Originally created for personal use — now shared with the community.
 
@@ -15,24 +15,20 @@ Each background was selected to preserve the **authentic football atmosphere** a
 Many thanks to **Russta** for allowing the use of player images in this pack.
 The credit is indicated in the image namespace and in the config.
 
-## Summary (3927 images)
+## Summary (4450 images)
 
-### Nations (189 nations, 386 images):
+### Nations (188 nations, 377 images):
 *More popular nations have more variations (e.g. 15+).*
-- The pack covers 189 nations with 386 images in total
+- The pack covers 188 nations with 377 images in total
 
-### Nation competitions (11 competitions, 58 images):
+### Nation competitions (7 competitions, 42 images):
 - **FIFA World Cup** (20 images)
 - **UEFA European Championship** (11 images)
-- **European Football Championship** (11 images)
 - **African Cup of Nations** (3 images)
 - **Copa América** (3 images)
 - **Olympic Games** (3 images)
-- **Copa America** (3 images)
 - **OFC Nations Cup** (1 image)
 - **UEFA European Championship Qualifying** (1 image)
-- **European Championship Qualifying** (1 image)
-- **Oceania Nations Cup** (1 image)
 
 ### Clubs (618 clubs, 2304 images):
 *More popular clubs have more variations (e.g. 15+).*
@@ -56,33 +52,47 @@ The credit is indicated in the image namespace and in the config.
 - **Saudi Arabia:** A Premier Division (12 clubs, 24 images)
 - **Others:** clubs from different nations (32 nations, 103 clubs, 200 images).
 
-### Club competitions (122 competitions, 437 images):
+### Club competitions (66 competitions, 239 images):
 - **UEFA Champions League** (26 images)
-- **European Champions Cup** (26 images)
 - **UEFA Europa League** (10 images)
-- **UEFA Cup** (10 images)
 - **UEFA Super Cup** (7 images)
-- **European Super Cup** (7 images)
 - **FIFA Club World Cup** (5 images)
-- **FIFA Club World Championship** (5 images)
 - **Copa Libertadores de América** (2 images)
-- **South American Copa Libertadores** (2 images)
-- **England:** English Premier League (10 images), English Premier Division (10 images), English Football League Championship (6 images), English First Division (6 images), English FA Cup (5 images), English Football League One (5 images), English Football League Two (5 images), English League Cup (5 images), English Second Division (5 images), English Third Division (5 images), English FA Trophy (4 images), English FA Community Shield (3 images), English National League (3 images), English Charity Shield (3 images), English Conference (3 images), Conference League Cup (1 images), English Football League Trophy (1 images), English Conference Cup (1 images), English Vans Trophy (1 images)
-- **Italy:** Italian Serie A (10 images), Coppa Italia (7 images), Italian Serie C1/A (7 images), Italian Cup (7 images), Italian Serie B (6 images), Supercoppa Italiana (6 images), Italian Super Cup (6 images), Coppa Italia Serie C (5 images), Italian Serie C Cup (5 images), Supercoppa Serie C (1 images), Italian C1 Super Cup (1 images)
-- **Spain:** Spanish La Liga (11 images), Spanish First Division (11 images), Spanish Copa del Rey (6 images), Supercopa de España (6 images), Spanish Cup (6 images), Spanish Super Cup (6 images), Spanish La Liga 2 (3 images), Spanish Second Division (3 images), Spanish Primera Federación (1 images), Spanish Second Division B (1 images)
-- **Germany:** German Bundesliga (10 images), German First Division (10 images), German DFB-Pokal (5 images), German Cup (5 images), German DFL-Supercup (4 images), German League Cup (4 images), German 2. Bundesliga (3 images), German Second Division (3 images), German 3. Liga (2 images), German Regional (2 images)
-- **France:** French Ligue 1 (7 images), French First Division (7 images), Coupe de France (3 images), French Ligue 2 (3 images), French Cup (3 images), French Second Division (3 images), Coupe de la Ligue (1 images), French Championnat National 1 (1 images), Trophée des Champions (1 images), French Champions Trophy (1 images), French League Cup (1 images), French National (1 images)
-- **Netherlands:** Dutch Eredivisie (3 images), Dutch Premier Division (3 images), Dutch Eerste Divisie (1 images), Johan Cruijff Schaal (1 images), KNVB Beker (1 images), Dutch Cup (1 images), Dutch First Division (1 images), Dutch Super Cup (1 images)
-- **Portugal:** Liga Portugal 1 (3 images), Portuguese Premier League (3 images), Taça de Portugal (2 images), Portuguese Cup (2 images), Campeonato de Portugal (1 images), Liga Portugal 2 (1 images), Supertaça Cândido de Oliveira (1 images), Portuguese Second League (1 images), Portuguese Super Cup (1 images), Portuguese Third Division (1 images)
-- **Scotland:** Scottish Cup (1 images), Scottish League Cup (1 images), Scottish Premiership (1 images), Scottish Premier Division (1 images)
-- **Turkey:** Turkish Süper Lig (1 images), Türkiye Kupasi (1 images), Turkish FA Cup (1 images), Turkish Premier Division (1 images)
-- **Poland:** Polish Ekstraklasa (1 images), Puchar Polski (1 images), SuperPuchar Polski (1 images), Polish FA Cup (1 images), Polish First Division (1 images), Polish Super Cup (1 images)
-- **USA:** Major League Soccer (1 images), American Major League (1 images)
-- **Greece:** Greek Super Cup (1 images), Greek Super League (1 images), Kypello Elladas (1 images), Greek Cup (1 images), Greek National A Division (1 images)
-- **Sweden:** Svenska Cupen (1 images), Swedish Allsvenskan (1 images), Swedish Cup (1 images), Swedish Premier Division (1 images)
-- **Others (international competitions):** CONCACAF Champions Cup (1 image), CONCACAF Champions League (1 image), Copa Sudamericana (1 image), Intercontinental Cup (1 image), Recopa Sudamericana (1 image), South American Copa Mercosur (1 image), South American Recopa (1 image)
+- **England:** English Premier League (10 images), English Football League Championship (6 images), English FA Cup (5 images), English Football League One (5 images), English Football League Two (5 images), English League Cup (5 images), English FA Trophy (4 images), English FA Community Shield (3 images), English National League (3 images), Conference League Cup (1 images), English Football League Trophy (1 images)
+- **Italy:** Italian Serie A (10 images), Coppa Italia (7 images), Italian Serie C1/A (7 images), Italian Serie B (6 images), Supercoppa Italiana (6 images), Coppa Italia Serie C (5 images), Supercoppa Serie C (1 images)
+- **Spain:** Spanish La Liga (11 images), Spanish Copa del Rey (6 images), Supercopa de España (6 images), Spanish La Liga 2 (3 images), Spanish Primera Federación (1 images)
+- **Germany:** German Bundesliga (10 images), German DFB-Pokal (5 images), German DFL-Supercup (4 images), German 2. Bundesliga (3 images), German 3. Liga (2 images)
+- **France:** French Ligue 1 (7 images), Coupe de France (3 images), French Ligue 2 (3 images), Coupe de la Ligue (1 images), French Championnat National 1 (1 images), Trophée des Champions (1 images)
+- **Netherlands:** Dutch Eredivisie (3 images), Dutch Eerste Divisie (1 images), Johan Cruijff Schaal (1 images), KNVB Beker (1 images)
+- **Portugal:** Liga Portugal 1 (3 images), Taça de Portugal (2 images), Campeonato de Portugal (1 images), Liga Portugal 2 (1 images), Supertaça Cândido de Oliveira (1 images)
+- **Scotland:** Scottish Cup (1 images), Scottish League Cup (1 images), Scottish Premiership (1 images)
+- **Turkey:** Turkish Süper Lig (1 images), Türkiye Kupasi (1 images)
+- **Poland:** Polish Ekstraklasa (1 images), Puchar Polski (1 images), SuperPuchar Polski (1 images)
+- **USA:** Major League Soccer (1 images)
+- **Greece:** Greek Super Cup (1 images), Greek Super League (1 images), Kypello Elladas (1 images)
+- **Sweden:** Svenska Cupen (1 images), Swedish Allsvenskan (1 images)
+- **Others (international competitions):** CONCACAF Champions League (1 image), Copa Sudamericana (1 image), Intercontinental Cup (1 image), Recopa Sudamericana (1 image)
 
-### Staff (698 staff, 712 images):
+### Stadiums (397 stadiums, 750 images):
+- **England:** Premier League (20 stadiums, 71 images), League Championship (22 stadiums, 44 images), League One (23 stadiums, 23 images), International (1 stadium, 1 image)
+- **Italy:** Serie A (18 stadiums, 54 images), Serie B (18 stadiums, 36 images), Serie C1/B (18 stadiums, 18 images), Serie C1/A (18 stadiums, 18 images)
+- **Spain:** La Liga (20 stadiums, 68 images), La Liga 2 (21 stadiums, 42 images)
+- **Germany:** Bundesliga (18 stadiums, 61 images), 2. Bundesliga (18 stadiums, 38 images)
+- **France:** Ligue 1 (18 stadiums, 54 images), Ligue 2 (20 stadiums, 43 images), International (1 stadium, 3 images)
+- **Netherlands:** Eredivisie (8 stadiums, 16 images)
+- **Portugal:** Liga Portugal 1 (6 stadiums, 11 images), International (1 stadium, 2 images)
+- **Brazil:** Campeonato Série A (4 stadiums, 8 images), Campeonato Série B (1 stadium, 1 image)
+- **Scotland:** Premiership (6 stadiums, 8 images), International (1 stadium, 1 image)
+- **Turkey:** Süper Lig (6 stadiums, 9 images), International (1 stadium, 1 image)
+- **Norway:** Eliteserien (5 stadiums, 5 images), International (1 stadium, 1 image)
+- **Argentina:** Primera División (1 stadium, 1 image), International (1 stadium, 2 images)
+- **Denmark:** Superliga (5 stadiums, 5 images), International (1 stadium, 2 images)
+- **Poland:** Ekstraklasa (5 stadiums, 5 images), International (1 stadium, 1 image)
+- **Ukraine:** A Premier Division (3 stadiums, 3 images), International (1 stadium, 2 images)
+- **Czech Republic:** First League (7 stadiums, 7 images), International (1 stadium, 1 image)
+- **Others:** stadiums from different nations (32 nations, 77 stadiums, 84 images).
+
+### Staff (696 staff, 708 images):
 
 ### Mix (30 images):
 - TRAINING (17 images), BOARDROOM (1 images), TROPHY (3 images), TRANSFER (8 images), SI (1 images)
