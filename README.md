@@ -15,7 +15,7 @@ Each background was selected to preserve the **authentic football atmosphere** a
 Many thanks to **Russta** for allowing the use of player images in this pack.
 The credit is indicated in the image namespace and in the config.
 
-## Summary (4450 images)
+## Summary (4398 images)
 
 ### Nations (188 nations, 377 images):
 *More popular nations have more variations (e.g. 15+).*
@@ -73,32 +73,33 @@ The credit is indicated in the image namespace and in the config.
 - **Sweden:** Svenska Cupen (1 images), Swedish Allsvenskan (1 images)
 - **Others (international competitions):** CONCACAF Champions League (1 image), Copa Sudamericana (1 image), Intercontinental Cup (1 image), Recopa Sudamericana (1 image)
 
-### Stadiums (397 stadiums, 750 images):
+### Stadiums (368 stadiums, 698 images):
 *More popular stadiums have more variations (e.g. 3+).*
-- **England:** Premier League (20 stadiums, 71 images), League Championship (22 stadiums, 44 images), League One (23 stadiums, 23 images), International (1 stadium, 1 image)
-- **Italy:** Serie A (18 stadiums, 54 images), Serie B (18 stadiums, 36 images), Serie C1/B (18 stadiums, 18 images), Serie C1/A (18 stadiums, 18 images)
-- **Spain:** La Liga (20 stadiums, 68 images), La Liga 2 (21 stadiums, 42 images)
-- **Germany:** Bundesliga (18 stadiums, 61 images), 2. Bundesliga (18 stadiums, 38 images)
-- **France:** Ligue 1 (18 stadiums, 54 images), Ligue 2 (20 stadiums, 43 images), International (1 stadium, 3 images)
+> **Note:** Stadiums used by national teams are intentionally excluded — they appear on the national team screen instead of the nation background image. Excluded: Maracanã (Brazil / Flamengo), Olympiastadion Berlin (Germany / Hertha BSC), Olimpico Rome (Italy / Lazio, Roma), Azteca (Mexico / CF América), Bernabéu (Spain / Real Madrid). Club-only stadiums do not affect national team screens and are included.
+- **England:** Premier League (20 stadiums, 71 images), League Championship (22 stadiums, 44 images), League One (23 stadiums, 23 images)
+- **Italy:** Serie A (17 stadiums, 51 images), Serie B (18 stadiums, 36 images), Serie C1/B (18 stadiums, 18 images), Serie C1/A (18 stadiums, 18 images)
+- **Spain:** La Liga (19 stadiums, 63 images), La Liga 2 (21 stadiums, 42 images)
+- **Germany:** Bundesliga (18 stadiums, 61 images), 2. Bundesliga (17 stadiums, 34 images)
+- **France:** Ligue 1 (18 stadiums, 54 images), Ligue 2 (20 stadiums, 43 images)
 - **Netherlands:** Eredivisie (8 stadiums, 16 images)
-- **Portugal:** Liga Portugal 1 (6 stadiums, 11 images), International (1 stadium, 2 images)
-- **Brazil:** Campeonato Série A (4 stadiums, 8 images), Campeonato Série B (1 stadium, 1 image)
-- **Scotland:** Premiership (6 stadiums, 8 images), International (1 stadium, 1 image)
-- **Turkey:** Süper Lig (6 stadiums, 9 images), International (1 stadium, 1 image)
-- **Norway:** Eliteserien (5 stadiums, 5 images), International (1 stadium, 1 image)
-- **Argentina:** Primera División (1 stadium, 1 image), International (1 stadium, 2 images)
-- **Denmark:** Superliga (5 stadiums, 5 images), International (1 stadium, 2 images)
-- **Poland:** Ekstraklasa (5 stadiums, 5 images), International (1 stadium, 1 image)
-- **Ukraine:** A Premier Division (3 stadiums, 3 images), International (1 stadium, 2 images)
-- **Czech Republic:** First League (7 stadiums, 7 images), International (1 stadium, 1 image)
-- **Others:** stadiums from different nations (32 nations, 77 stadiums, 84 images).
+- **Portugal:** Liga Portugal 1 (6 stadiums, 11 images)
+- **Brazil:** Campeonato Série A (3 stadiums, 3 images), Campeonato Série B (1 stadium, 1 image)
+- **Scotland:** Premiership (6 stadiums, 8 images)
+- **Turkey:** Süper Lig (6 stadiums, 9 images)
+- **Norway:** Eliteserien (5 stadiums, 5 images)
+- **Argentina:** Primera División (1 stadium, 1 image)
+- **Denmark:** Superliga (5 stadiums, 5 images)
+- **Poland:** Ekstraklasa (5 stadiums, 5 images)
+- **Ukraine:** A Premier Division (3 stadiums, 3 images)
+- **Czech Republic:** First League (7 stadiums, 7 images)
+- **Others:** stadiums from different nations (31 nations, 63 stadiums, 66 images).
 
 ### Staff (696 staff, 708 images):
 
 ### Mix (30 images):
 - TRAINING (17 images), BOARDROOM (1 images), TROPHY (3 images), TRANSFER (8 images), SI (1 images)
 
-Images use **40% opacity** for better text readability.
+Images use **35% opacity** for better text readability.
 
 ## Compatibility
 
