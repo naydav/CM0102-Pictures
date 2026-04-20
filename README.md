@@ -75,7 +75,9 @@ The credit is indicated in the image namespace and in the config.
 
 ### Stadiums (368 stadiums, 698 images):
 *More popular stadiums have more variations (e.g. 3+).*
-> **Note:** Stadiums used by national teams are intentionally excluded — they appear on the national team screen instead of the nation background image. Excluded: Maracanã (Brazil / Flamengo), Olympiastadion Berlin (Germany / Hertha BSC), Olimpico Rome (Italy / Lazio, Roma), Azteca (Mexico / CF América), Bernabéu (Spain / Real Madrid). Club-only stadiums do not affect national team screens and are included.
+> **Note:** When a stadium is assigned to a national team, it overrides the national team background image on the national team screen. To keep nation images visible there, all national stadiums are excluded from this pack.
+>
+> For the same reason, the following club stadiums shared with a national team are also excluded: Maracanã (Brazil / Flamengo), Olympiastadion Berlin (Germany / Hertha BSC), Olimpico Rome (Italy / Lazio, Roma), Azteca (Mexico / CF América), Bernabéu (Spain / Real Madrid).
 - **England:** Premier League (20 stadiums, 71 images), League Championship (22 stadiums, 44 images), League One (23 stadiums, 23 images)
 - **Italy:** Serie A (17 stadiums, 51 images), Serie B (18 stadiums, 36 images), Serie C1/B (18 stadiums, 18 images), Serie C1/A (18 stadiums, 18 images)
 - **Spain:** La Liga (19 stadiums, 63 images), La Liga 2 (21 stadiums, 42 images)
