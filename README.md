@@ -74,6 +74,7 @@ The credit is indicated in the image namespace and in the config.
 - **Others (international competitions):** CONCACAF Champions League (1 image), Copa Sudamericana (1 image), Intercontinental Cup (1 image), Recopa Sudamericana (1 image)
 
 ### Stadiums (397 stadiums, 750 images):
+*More popular stadiums have more variations (e.g. 3+).*
 - **England:** Premier League (20 stadiums, 71 images), League Championship (22 stadiums, 44 images), League One (23 stadiums, 23 images), International (1 stadium, 1 image)
 - **Italy:** Serie A (18 stadiums, 54 images), Serie B (18 stadiums, 36 images), Serie C1/B (18 stadiums, 18 images), Serie C1/A (18 stadiums, 18 images)
 - **Spain:** La Liga (20 stadiums, 68 images), La Liga 2 (21 stadiums, 42 images)
