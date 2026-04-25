@@ -125,14 +125,14 @@ Images use **35% opacity** for better text readability.
 
 ## Installation
 
-1. **Back up** your current `Pictures/` folder in the CM0102 game directory (copy it somewhere safe so you can restore it later).
-2. **Download the source:** open [CM0102 Pictures — GitHub release](https://github.com/naydav/CM0102-Pictures/releases/tag/pictures-release), scroll to **Assets**, and download **Source code (zip)**.
-3. **Extract** the zip, then copy everything from **`Pictures/`** in the unpacked archive into your CM0102 **`Pictures/`** folder at the **game root** (next to the executable), replacing the existing folder if present.
-4. **Nick's CM0102Patcher:** apply the options from **Requirements** (above) — [Full patcher guide](https://champman0102.net/viewtopic.php?t=1943).
+1. **Nick's CM0102Patcher:** apply the options from **Requirements** (above) — [Full patcher guide](https://champman0102.net/viewtopic.php?t=1943).
+2. **Back up** your current `Pictures/` folder in the CM0102 game directory (copy it somewhere safe so you can restore it later).
+3. **Download the source:** open [CM0102 Pictures — GitHub release](https://github.com/naydav/CM0102-Pictures/releases/tag/pictures-release), scroll to **Assets**, and download **Source code (zip)**.
+4. **Extract** the zip, then copy everything from **`Pictures/`** in the unpacked archive into your CM0102 **`Pictures/`** folder at the **game root** (next to the executable), replacing the existing folder if present.
 
 ### To revert
 
-Remove or clear the current **`Pictures/`** folder in the game directory, then restore the backup from step 1 into **`Pictures/`**.
+Remove or clear the current **`Pictures/`** folder in the game directory, then restore the backup from step 2 into **`Pictures/`**.
 
 **Note:** The first load may take a bit longer than without pictures, as the game has to load all images.
 
